@@ -64,3 +64,59 @@ _Derleme (compilation) ,Yorumlama (interpretation)_
 - ### Lexical Analysis nedir?
 
 - ### Joker karakter nedir?
+
+
+> ## 22-03-2022
+
+- Lexical Analizde tokenler çıkarılıyor.
+
+- Scanner ->harf harf okunuyor
+
+- Lexical : -Parser ve -Scanner
+- 
+- Lexical analizde en başta
+- 
+      *boşluklar çıkar
+      
+      *tablolar çıkar
+      
+      *harf harf okunur
+      
+      *tokenler tespit edilir.
+
+- Her bir satıra sayı vermelisin ki nerede hata olduğunu görebilirsin.
+
+- Boşluk bir token değildir.
+
+- Num(10) -> token
+
+- +boş küme olamaz
+
+- elapsed Time -> bu iş için ne kadar zaman harcadın.
+
+- text=\"%s\" ,programlama dilinde karar veremiyordu,iç içe aynı karakterleri bütün olarak görsün diye \\ kulanılıyordu c'de.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
