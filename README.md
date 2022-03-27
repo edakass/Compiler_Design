@@ -75,7 +75,7 @@ _Derleme (compilation) ,Yorumlama (interpretation)_
 - Lexical : -Parser ve -Scanner
 - 
 - Lexical analizde en başta
-- 
+
       *boşluklar çıkar
       
       *tablolar çıkar
