@@ -9,10 +9,14 @@
 
 ![image](https://user-images.githubusercontent.com/61595808/169315015-96e1c001-fb7f-455e-b7ad-85c5f7ccc27d.png)
 
-For:
+## For
 
 ![image](https://user-images.githubusercontent.com/61595808/169346485-bbd73630-d7c9-4468-b457-d21ec8155c3e.png)
 
+
+## While
+
+![image](https://user-images.githubusercontent.com/61595808/169348088-643416dd-29b0-42d2-bb3a-f5a17a0e3783.png)
 
 
 > ## 08-03-2022
