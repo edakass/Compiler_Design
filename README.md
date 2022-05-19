@@ -3,7 +3,7 @@
 
 # Derleyici(Compiler) Tasarımı
 
-https://gist.github.com/
+>## Project
 
 > ## 08-03-2022
 
