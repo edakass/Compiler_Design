@@ -1,0 +1,15 @@
+Değişken Tanımlama için ise
+  VAR s = 17
+  VAR f = 12.7
+
+For Kullanımı için:
+
+ VAR sonuc = 5
+ FOR i = 5 TO 8 THEN VAR sonuc = sonuc + i
+ sonuc 
+
+WHILE Kullanımı için:
+
+ VAR s = 0
+ WHILE s <= 12 THEN VAR s = s+1
+ s
