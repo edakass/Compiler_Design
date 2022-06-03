@@ -19,6 +19,18 @@
 ![image](https://user-images.githubusercontent.com/61595808/169348088-643416dd-29b0-42d2-bb3a-f5a17a0e3783.png)
 
 
+>Uml görüntüleri
+
+![uml 1111](https://user-images.githubusercontent.com/61595808/171838439-9bf955fd-0395-4e82-85af-39c276149bef.png)
+
+
+![uml2222](https://user-images.githubusercontent.com/61595808/171838468-81f83354-e376-421b-8780-8bff95235b3b.png)
+
+![uml tam görünüö](https://user-images.githubusercontent.com/61595808/171838505-431a5346-2ee5-4253-85a4-978a4395764f.png)
+
+
+
+
 > ## 08-03-2022
 
 - ### Derleyici ve Yorumlayıcı arasındaki fark nedir?
